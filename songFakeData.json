@@ -1,0 +1,249 @@
+[
+  {
+    "title": "Sunshine",
+    "artist": "Ava Smith",
+    "genre": "Pop",
+    "fileUrl": "https://example.com/sunshine.mp3"
+  },
+  {
+    "title": "Starry Nights",
+    "artist": "The Night Owls",
+    "genre": "Indie Rock",
+    "fileUrl": "https://example.com/starry-nights.mp3"
+  },
+  {
+    "title": "Electric Dreams",
+    "artist": "Neon Lights",
+    "genre": "Electronic",
+    "fileUrl": "https://example.com/electric-dreams.mp3"
+  },
+
+  {
+    "title": "Dancing in the Rain",
+    "artist": "Rainbow Dreamers",
+    "genre": "Pop",
+    "fileUrl": "https://example.com/dancing-in-the-rain.mp3"
+  },
+  {
+    "title": "City Lights",
+    "artist": "Metro Beat",
+    "genre": "Synthpop",
+    "fileUrl": "https://example.com/city-lights.mp3"
+  },
+  {
+    "title": "Golden Years",
+    "artist": "Harmony Band",
+    "genre": "Pop",
+    "fileUrl": "https://example.com/golden-years.mp3"
+  },
+  {
+    "title": "Dance with Me",
+    "artist": "Luna",
+    "genre": "Pop",
+    "fileUrl": "https://example.com/dance-with-me.mp3"
+  },
+  {
+    "title": "Midnight Vibes",
+    "artist": "Night Riders",
+    "genre": "Electronic",
+    "fileUrl": "https://example.com/midnight-vibes.mp3"
+  },
+  {
+    "title": "Summer Breeze",
+    "artist": "Sunset Waves",
+    "genre": "Pop",
+    "fileUrl": "https://example.com/summer-breeze.mp3"
+  },
+  {
+    "title": "Lost in the City",
+    "artist": "Urban Groove",
+    "genre": "R&B",
+    "fileUrl": "https://example.com/lost-in-the-city.mp3"
+  },
+  {
+    "title": "Skyline Dreams",
+    "artist": "Skylights",
+    "genre": "Indie",
+    "fileUrl": "https://example.com/skyline-dreams.mp3"
+  },
+  {
+    "title": "Neon Nights",
+    "artist": "Neon City",
+    "genre": "Synthwave",
+    "fileUrl": "https://example.com/neon-nights.mp3"
+  },
+  {
+    "title": "Smooth Sailing",
+    "artist": "Jazz Trio Deluxe",
+    "genre": "Jazz",
+    "fileUrl": "https://example.com/smooth-sailing.mp3"
+  },
+  {
+    "title": "Moonlight Serenade",
+    "artist": "Melody Masters",
+    "genre": "Jazz",
+    "fileUrl": "https://example.com/moonlight-serenade.mp3"
+  },
+  {
+    "title": "Café au Lait",
+    "artist": "Java Jazz Quartet",
+    "genre": "Jazz",
+    "fileUrl": "https://example.com/cafe-au-lait.mp3"
+  },
+  {
+    "title": "Saxophone Sunset",
+    "artist": "Sax Groove Ensemble",
+    "genre": "Jazz",
+    "fileUrl": "https://example.com/saxophone-sunset.mp3"
+  },
+  {
+    "title": "Blue Note Blues",
+    "artist": "Midnight Blue Band",
+    "genre": "Jazz",
+    "fileUrl": "https://example.com/blue-note-blues.mp3"
+  },
+  {
+    "title": "Lounge Lullaby",
+    "artist": "Lounge Lizards",
+    "genre": "Jazz",
+    "fileUrl": "https://example.com/lounge-lullaby.mp3"
+  },
+  {
+    "title": "Move Your Body",
+    "artist": "Dance Crew",
+    "genre": "Pop",
+    "fileUrl": "https://example.com/move-your-body.mp3"
+  },
+  {
+    "title": "Groove Tonight",
+    "artist": "Electric Beats",
+    "genre": "Pop",
+    "fileUrl": "https://example.com/groove-tonight.mp3"
+  },
+  {
+    "title": "Party Anthem",
+    "artist": "Popstars United",
+    "genre": "Pop",
+    "fileUrl": "https://example.com/party-anthem.mp3"
+  },
+  {
+    "title": "Dancefloor Magic",
+    "artist": "Pop Sensation",
+    "genre": "Pop",
+    "fileUrl": "https://example.com/dancefloor-magic.mp3"
+  },
+  {
+    "title": "Beat Drop",
+    "artist": "Club Vibes",
+    "genre": "Pop",
+    "fileUrl": "https://example.com/beat-drop.mp3"
+  },
+  {
+    "title": "Rhythm Revolution",
+    "artist": "Pop Revolutionaries",
+    "genre": "Pop",
+    "fileUrl": "https://example.com/rhythm-revolution.mp3"
+  },
+  {
+    "title": "Take On Me",
+    "artist": "a-ha",
+    "genre": "Pop",
+    "fileUrl": "https://example.com/take-on-me.mp3"
+  },
+  {
+    "title": "Billie Jean",
+    "artist": "Michael Jackson",
+    "genre": "Pop",
+    "fileUrl": "https://example.com/billie-jean.mp3"
+  },
+  {
+    "title": "Livin' on a Prayer",
+    "artist": "Bon Jovi",
+    "genre": "Rock",
+    "fileUrl": "https://example.com/livin-on-a-prayer.mp3"
+  },
+  {
+    "title": "Every Breath You Take",
+    "artist": "The Police",
+    "genre": "Pop",
+    "fileUrl": "https://example.com/every-breath-you-take.mp3"
+  },
+  {
+    "title": "Don't Stop Believin'",
+    "artist": "Journey",
+    "genre": "Rock",
+    "fileUrl": "https://example.com/dont-stop-believin.mp3"
+  },
+  {
+    "title": "Breathe",
+    "artist": "Chillax",
+    "genre": "Chillout",
+    "fileUrl": "https://example.com/breathe.mp3"
+  },
+  {
+    "title": "Sunset Dreams",
+    "artist": "Lounge Lizards",
+    "genre": "Chillout",
+    "fileUrl": "https://example.com/sunset-dreams.mp3"
+  },
+  {
+    "title": "Ocean Waves",
+    "artist": "Sea Sounds",
+    "genre": "Chillout",
+    "fileUrl": "https://example.com/ocean-waves.mp3"
+  },
+  {
+    "title": "Midnight Reflections",
+    "artist": "Moonlight Sonata",
+    "genre": "Chillout",
+    "fileUrl": "https://example.com/midnight-reflections.mp3"
+  },
+  {
+    "title": "Soothing Serenade",
+    "artist": "Tranquil Vibes",
+    "genre": "Chillout",
+    "fileUrl": "https://example.com/soothing-serenade.mp3"
+  },
+  {
+    "title": "Relaxation Station",
+    "artist": "Zen Garden",
+    "genre": "Chillout",
+    "fileUrl": "https://example.com/relaxation-station.mp3"
+  },
+  {
+    "title": "Stairway to Heaven",
+    "artist": "Led Zeppelin",
+    "genre": "Rock",
+    "fileUrl": "https://example.com/stairway-to-heaven.mp3"
+  },
+  {
+    "title": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "genre": "Rock",
+    "fileUrl": "https://example.com/bohemian-rhapsody.mp3"
+  },
+  {
+    "title": "Hotel California",
+    "artist": "Eagles",
+    "genre": "Rock",
+    "fileUrl": "https://example.com/hotel-california.mp3"
+  },
+  {
+    "title": "Born to Run",
+    "artist": "Bruce Springsteen",
+    "genre": "Rock",
+    "fileUrl": "https://example.com/born-to-run.mp3"
+  },
+  {
+    "title": "Sweet Home Alabama",
+    "artist": "Lynyrd Skynyrd",
+    "genre": "Rock",
+    "fileUrl": "https://example.com/sweet-home-alabama.mp3"
+  },
+  {
+    "title": "Smells Like Teen Spirit",
+    "artist": "Nirvana",
+    "genre": "Rock",
+    "fileUrl": "https://example.com/smells-like-teen-spirit.mp3"
+  }
+]

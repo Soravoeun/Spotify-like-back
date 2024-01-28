@@ -6,6 +6,7 @@ const port = process.env.PORT
 import mongoose from "mongoose";
 import cors from "cors";
 import { authRouter } from "./routes/userRoute";
+import { playlistRouter } from "./routes/playlistRoute";
 
 main().catch(err => console.log(err));
 
@@ -19,6 +20,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 
 app.get('/', (req, res) => res.send("Welcome to API Spotify back Final"));
+app.use('/playlist', playlistRouter);
 app.use('/auth', authRouter);
 
 app.listen(port, () =>

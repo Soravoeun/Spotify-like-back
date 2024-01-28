@@ -13,3 +13,9 @@ Gestion des Playlists:
  Recherche de Chansons
 ☐ Recherche par Titre/Artiste : Les utilisateurs peuvent rechercher des chansons par titre ou artiste.
 ☐ Filtrage : Possibilité de filtrer les résultats par genre, année, etc.
+
+
+ ☐ User : 
+    ☐ creation de userModel
+    ☐ creation de userController
+    ☐ creation de userRouter
