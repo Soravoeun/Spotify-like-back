@@ -15,7 +15,17 @@ Gestion des Playlists:
 ☐ Filtrage : Possibilité de filtrer les résultats par genre, année, etc.
 
 
- ☐ User : 
-    ☐ creation de userModel
-    ☐ creation de userController
-    ☐ creation de userRouter
+☐ User : 
+    ✔ creation de userModel @done(24-01-28 23:59)
+    ✔ creation de userController @done(24-01-28 23:59)
+    ✔ creation de userRouter @done(24-01-28 23:59)
+
+☐ Playlist: 
+  ✔ cration du playlistModel @done(24-01-29 00:00)
+  ✔ creation du playlistController @done(24-01-29 00:01)
+  ✔ creation du playlistRouter @done(24-01-29 00:01)
+
+☐ Song :
+  ☐ creation du songModel
+  ☐ creation du songController
+  ☐ creation du songRouter

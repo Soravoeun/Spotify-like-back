@@ -7,6 +7,7 @@ import mongoose from "mongoose";
 import cors from "cors";
 import { authRouter } from "./routes/userRoute";
 import { playlistRouter } from "./routes/playlistRoute";
+import { songRouter } from "./routes/songRoute";
 
 main().catch(err => console.log(err));
 
@@ -21,6 +22,7 @@ app.use(express.urlencoded({ extended: false }));
 
 app.get('/', (req, res) => res.send("Welcome to API Spotify back Final"));
 app.use('/playlist', playlistRouter);
+app.use('/song', songRouter);
 app.use('/auth', authRouter);
 
 app.listen(port, () =>
