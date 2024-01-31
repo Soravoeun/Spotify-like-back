@@ -3,9 +3,10 @@ Spotify-api-back:
 
 L'application inclura des fonctionnalités telles que l'authentification des utilisateurs, la recherche de chansons, la création et la gestion de playlists, ainsi que la lecture en continu de musique.
 
- Authentification des Utilisateurs:
+Authentification des Utilisateurs:
 ☐ Enregistrement : Les utilisateurs peuvent créer un compte en fournissant un nom d'utilisateur, une adresse e-mail et un mot de passe.
 ☐ Connexion : Les utilisateurs enregistrés peuvent se connecter à leur compte avec leur adresse e-mail et leur mot de passe.
+
 Gestion des Playlists:
 ☐ Création : Les utilisateurs peuvent créer des playlists personnalisées.
 ☐ Édition : Possibilité d'ajouter, de supprimer ou de réorganiser les chansons dans une playlist.
@@ -26,6 +27,6 @@ Gestion des Playlists:
   ✔ creation du playlistRouter @done(24-01-29 00:01)
 
 ☐ Song :
-  ☐ creation du songModel
-  ☐ creation du songController
-  ☐ creation du songRouter
+  ✔ creation du songModel @done(24-01-29 13:13)
+  ✔ creation du songController @done(24-01-29 13:13)
+  ✔ creation du songRouter @done(24-01-29 13:13)
